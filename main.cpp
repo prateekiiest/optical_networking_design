@@ -32,13 +32,6 @@ while(fgets(buff, 255 , fp))
  
 
 
-
-for(j=0;j<100;j++){
-	
-}
-
-
- 
   fclose(fp);
 
 return 0;
