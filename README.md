@@ -8,7 +8,8 @@ This project mainly aims at providing a reliable and economical network connecti
 
 
 #Contributing
-Thank you for considering contributing to the optical networking project.
+It would be great if you want to contribute to this repo.We really want contributors who can help us in building the project to the fullest.So you are always welcome. You can follow me on github and may even contact me through my mail
+prateekkol21@gmail.com
 
 #Collaborators
 
