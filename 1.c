@@ -89,7 +89,7 @@ int main()
     printf("From vertex %d",i);
     printf("\n");
     dijkstra(graph, i);
-    printf("\n;
+    printf("\n");
   }
     return 0;
 
