@@ -84,9 +84,13 @@ int main()
 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0},
 };
                      
-  
-    dijkstra(graph, 0); // From the vertex 0
-  
+  int i;
+  for(i=0;i<14;i++){
+    printf("From vertex %d",i);
+    printf("\n");
+    dijkstra(graph, i);
+    printf("\n;
+  }
     return 0;
 
 }
