@@ -5,6 +5,7 @@
 This project mainly aims at providing a reliable and economical network connection between different nodes(sources and destination).
 
 
+Project can be found [here](https://github.com/prateekiiest/optical_networking_design/blob/master/NetowrkingMiniProject.ipynb)
 
 
 
