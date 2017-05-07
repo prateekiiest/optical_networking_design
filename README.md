@@ -6,7 +6,7 @@ This project mainly aims at providing a reliable and economical network connecti
 
 
 Project can be found [here](https://github.com/prateekiiest/optical_networking_design/blob/master/NetowrkingMiniProject.ipynb)
-
+[Project Report](https://github.com/prateekiiest/optical_networking_design/blob/master/Mini%20P.pdf)
 
 
 # Contributing
