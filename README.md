@@ -31,8 +31,7 @@ Code exists here [here](https://github.com/prateekiiest/optical_networking_desig
 --------------------------------
 
 ### Contributing
-It would be great if you want to contribute to this repo.We really want contributors who can help us in building the project to the fullest.So you are always welcome. You can follow me on github and may even contact me through my mail
-prateekkol21@gmail.com
+It would be great if you want to contribute to this repo. You are always welcome.
 
 
 
